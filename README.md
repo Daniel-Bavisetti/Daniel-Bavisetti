@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Daniel, a machine learning enthusiast passionate about developing intelligent systems and solving complex problems through data-driven approaches. I enjoy working on projects related to artificial intelligence, data science, and software development. 
+Hello! I'm Daniel, a machine learning enthusiast passionate about developing intelligent systems and solving complex problems through data-driven approaches. I enjoy working on projects related to artificial intelligence, data science, Web developement and software development. 
 
 ## Skills
 
