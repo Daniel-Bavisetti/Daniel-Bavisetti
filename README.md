@@ -42,7 +42,6 @@ Hello! I'm Daniel, a machine learning enthusiast passionate about developing int
 
 ### DevOps
 - **Infrastructure as Code (IaC)**: Terraform, Ansible
-- **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
 
 ### Soft Skills
 - **Problem-Solving**: Analytical thinking, creativity in solution design
