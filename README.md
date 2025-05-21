@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Machine Learning Engineer** and **Data Sci
 
 **Languages:** Python, SQL, C++, JavaScript, HTML/CSS, Java, Bash  
 **Frameworks/Libraries:** PyTorch, TensorFlow, OpenCV, Pandas, NumPy, Matplotlib, Seaborn  
-**Tools:** Power BI, Tableau, Flask, Git, CI/CD (basic), APIs  
+**Tools:** Power BI, Tableau, Flask, Git, APIs  
 **Specializations:** Machine Learning, Deep Learning, NLP, Computer Vision, Data Science, IoT
 
 ---
@@ -34,8 +34,7 @@ XIM University, Bhubaneswar (2021–2025)
 
 ## 🚀 Projects
 
-- [Smart Parking System](https://github.com/Daniel-Bavisetti/) – YOLOv8-based vehicle & number plate detection for real-time parking automation.  
-- [Predictive Disaster Management](https://github.com/Daniel-Bavisetti/) – Hybrid LSTM + RF model for disaster trend forecasting.  
+- [Smart Parking System](https://github.com/Daniel-Bavisetti/Smart_parking_system) – YOLOv8-based vehicle & number plate detection for real-time parking automation.  
 - [MEMC-Net](https://github.com/Daniel-Bavisetti/MEMC) – Motion estimation and compensation deep learning model for video frame enhancement.  
 - [Hackathon – IoT Data Imputation](https://github.com/Daniel-Bavisetti/Hackathon) – ML-based web app for filling missing sensor data (humidity, temperature, etc.).  
 - [XAMBOREE](https://github.com/Daniel-Bavisetti/Xamboree) – Full-stack event management system.  
