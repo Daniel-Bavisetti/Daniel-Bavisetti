@@ -1,54 +1,61 @@
-# Welcome to My GitHub Page!
 
+# 👋 Hi, I'm Bavisetti Daniel
 
+Welcome to my GitHub profile! I'm a **Machine Learning Engineer** and **Data Scientist** passionate about building intelligent systems that solve real-world problems. My work spans across machine learning, deep learning, computer vision, IoT, and full-stack development.
 
-## About Me
+---
 
-Hello! I'm Daniel, a machine learning enthusiast passionate about developing intelligent systems and solving complex problems through data-driven approaches. I enjoy working on projects related to artificial intelligence, data science, Web developement and software development. 
+## 🔧 Tech Stack
 
-## Skills
+**Languages:** Python, SQL, C++, JavaScript, HTML/CSS, Java, Bash  
+**Frameworks/Libraries:** PyTorch, TensorFlow, OpenCV, Pandas, NumPy, Matplotlib, Seaborn  
+**Tools:** Power BI, Tableau, Flask, Git, CI/CD (basic), APIs  
+**Specializations:** Machine Learning, Deep Learning, NLP, Computer Vision, Data Science, IoT
 
-### Machine Learning
-- **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, Support Vector Machines (SVM)
-- **Unsupervised Learning**: K-Means Clustering, Principal Component Analysis (PCA), Hierarchical Clustering
-- **Deep Learning**: Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory Networks (LSTMs)
-- **Natural Language Processing (NLP)**: Text Preprocessing, Sentiment Analysis, Word Embeddings, Transformers
-- **Model Evaluation and Optimization**: Cross-Validation, Grid Search, Hyperparameter Tuning, Model Metrics
+---
 
-### Programming Languages
-- **Python**: Essential for machine learning, data analysis, and scripting.
-- **SQL**: Crucial for database management and data querying.
-- **JavaScript**: Important for web development and interactive visualizations.
-- **Java**: Good for large-scale systems and Android development.
-- **C++**: Useful for performance-critical applications.
+## 📚 Education
 
-### Software Development
-- **Version Control**: Git, GitHub
-- **Software Testing**: Unit Testing, Integration Testing, Test-Driven Development (TDD)
+**B.Tech (Hons.) in Computer Science and Engineering**  
+XIM University, Bhubaneswar (2021–2025)  
+- CGPA: 7.71 | Class 12: 94.1% | Class 10: 9.7 GPA  
+- Courses: Machine Learning, Deep Learning & NLP, AI, Big Data, Software Engineering, Blockchain
 
-### Data Analysis and Visualization
-- **Data Wrangling**: pandas, NumPy
-- **Data Visualization**: Matplotlib, Seaborn
-- **Big Data Technologies**: Hadoop, Spark
-- **Business Intelligence Tools**: Tableau, Power BI
+---
 
-### Web Development
-- **Frontend**: HTML, CSS, JavaScript, React, Angular, Vue.js
-- **Backend**: Node.js, Django, Flask, Express.js
-- **Databases**: MySQL, MongoDB
+## 💼 Experience
 
-### Cloud Computing
-- **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Microsoft Azure
+**Research Intern – NIT Rourkela** (May 2024 – July 2024)  
+- Built an IoT-based Smart Parking System with YOLO-based vehicle & license plate detection.  
+- Achieved 95%+ accuracy and deployed real-time tracking and server communication.  
+- Focused on model optimization for edge devices (IoT).
 
-### DevOps
-- **Infrastructure as Code (IaC)**: Terraform, Ansible
+---
 
-### Soft Skills
-- **Problem-Solving**: Analytical thinking, creativity in solution design
-- **Collaboration**: Teamwork, communication, project management
-- **Adaptability**: Learning new technologies, adapting to new challenges
+## 🚀 Projects
 
-<!---
-Daniel-Bavisetti/Daniel-Bavisetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Smart Parking System](https://github.com/Daniel-Bavisetti/) – YOLOv8-based vehicle & number plate detection for real-time parking automation.  
+- [Predictive Disaster Management](https://github.com/Daniel-Bavisetti/) – Hybrid LSTM + RF model for disaster trend forecasting.  
+- [MEMC-Net](https://github.com/Daniel-Bavisetti/MEMC) – Motion estimation and compensation deep learning model for video frame enhancement.  
+- [Hackathon – IoT Data Imputation](https://github.com/Daniel-Bavisetti/Hackathon) – ML-based web app for filling missing sensor data (humidity, temperature, etc.).  
+- [XAMBOREE](https://github.com/Daniel-Bavisetti/Xamboree) – Full-stack event management system.  
+- [2D Simulation – Verlet Engine](https://github.com/Daniel-Bavisetti/2D_simulation) – Ball physics simulation using Verlet integration.
+
+---
+
+## 📜 Certifications
+
+- **BS in Data Science and Applications** – IIT Madras (Jan 2022)
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: daniel.bavisetti0579@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-bavisetti/)  
+- 🧠 [Portfolio Website](https://daniel-bavisetti.github.io/Daniel_Bavisetti/)  
+- 💻 [GitHub](https://github.com/Daniel-Bavisetti)
+
+---
+
+> “Turning data into impact with machine learning and intelligent systems.”
