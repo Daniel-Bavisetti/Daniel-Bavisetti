@@ -35,8 +35,7 @@ XIM University, Bhubaneswar (2021–2025)
 ## 🚀 Projects
 
 - [Smart Parking System](https://github.com/Daniel-Bavisetti/Smart_parking_system) – YOLOv8-based vehicle & number plate detection for real-time parking automation.  
-- [MEMC-Net](https://github.com/Daniel-Bavisetti/MEMC) – Motion estimation and compensation deep learning model for video frame enhancement.  
-- [Hackathon – IoT Data Imputation](https://github.com/Daniel-Bavisetti/Hackathon) – ML-based web app for filling missing sensor data (humidity, temperature, etc.).  
+- [MEMC-Net](https://github.com/Daniel-Bavisetti/MEMC) – Motion estimation and compensation deep learning model for video frame enhancement.   
 - [XAMBOREE](https://github.com/Daniel-Bavisetti/Xamboree) – Full-stack event management system.  
 - [2D Simulation – Verlet Engine](https://github.com/Daniel-Bavisetti/2D_simulation) – Ball physics simulation using Verlet integration.
 
